@@ -1,3 +1,14 @@
+**/September 30th 2021**/
+
+***What do you like about the RPG: Creator Kit?***
+I like that is simple and easy to understand. Alot of beginner tutorials don't seem to realize that they are for beginners
+***What do you dislike?***
+Ironically, despite the fact that I respect its simplicity, I think that it is too slow paced. I think it should be a little quicker and more intuitive so that
+whoever is taking it, doesn't lose interest.
+***How do you feel the tutorial could be improved?***
+I think that some of the different "lessons"(since I don't know what exactly to refer to them as) should be combined or atleast can be. This way it doesn't take too long to get
+through as opposed to how it is now...understandable thought, since some people need some more time and need to be more in depth.**/
+
 **/September 23rd 2021**/
 **What comes to mind when you think of RPGs?**
 When I think of RPGs, I immediately begin thinking about Pokemon.
