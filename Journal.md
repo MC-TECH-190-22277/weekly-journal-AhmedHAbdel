@@ -7,6 +7,7 @@ I feel like i have no running start. I have to slowly try to understand what I w
 
 ***3. Think about a game you have played and talk about a constraint, you think, the developers may have had when developing that game. (for example: in Super Mario Brothers they were constrained by the amount of memory available on the NES console so they reused a lot of art assets to save memory like using Mushrooms for powerups, 1ups, and enemies, chaning lugi's color so they could use the same sprite for 2 differnet players, or how the bushes and clouds are the same sprites with different collors)***
  In God of War, they wanted the game to be completely devoid of loading times. That was alittle difficult on outdated consoles so they disguised all the loading times in cutscenes and elaborate elevator scenes.
+ 
 **/September 30th 2021**/
 
 ***What do you like about the RPG: Creator Kit?***
